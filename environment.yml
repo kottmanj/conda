@@ -1,5 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
+  - kottmann
 dependencies:
   - python=3.9
+  - madtequila
