@@ -5,6 +5,3 @@ channels:
 dependencies:
   - python=3.9
   - madtequila
-  - pip
-  - pip:
-    - tequila-basic
